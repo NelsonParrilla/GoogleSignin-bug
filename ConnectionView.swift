@@ -1,8 +1,6 @@
 //
-//  SigninView2.swift
-//  Mementop
+//  ConnectionView.swift
 //
-//  Created by Frédéric TRISSON on 17/12/2020.
 //
 
 import SwiftUI
